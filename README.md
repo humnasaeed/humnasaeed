@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 Currently studying Software Engineering at McMaster University
-🔭 I’m currently working on my Personal Website 
